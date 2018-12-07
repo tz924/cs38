@@ -1,0 +1,10 @@
+James	Smith 88 90 82
+Michael	Smith 94 92 91
+Robert	Smith 75 91 81
+David	Smith 82 85 87
+James	Johnson 81 0 85
+Michael	Johnson 92 91 85
+William	Smith 82 80 0
+James	Williams 81 78 85
+Robert	Johnson 89 77 84
+Mary	Smith 79 82 83

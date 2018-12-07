@@ -1,0 +1,80 @@
+#1 You are an engineer who works in a game company.
+You and your company are ready to make a new game.
+@1. Look for new ideas
+2
+@2. Do whatever your boss wants you to do
+3
+#2 D (stands for Dream) is a well-known game developer who just lost a lot of money in his last game.
+He proposed a completely new idea for that game.
+However, his co-workers don't believe that the game can make any money because it is too risky.
+@1. Accept the proposal
+4
+@2. Reject the proposal
+5
+#3 Play safe.
+You and your co-workers decide to use an old idea to make the game.
+The process is pretty smooth.
+@1. Work very hard
+6
+@2. Slack off
+7
+#4 You quit your job and join D.
+You two struggle to design, code and test the game.
+You learn new skills and meet different people every single day.
+@1. Work as hard as you can
+8
+@2. Put a little effort
+9
+#5 D understands that your company doesn't want to take a risk.
+We would never be afraid to get up if every new day is simply the
+same as the days before. "However, if every day is simply repeating
+the previous ones, why would we ever want to get up?" - D
+@1. Change your mind
+4
+@2. Remain silent
+10
+#6 You made 1,000 dollars! The game you designed is very similar to many others in the market.
+It stops making money in a short period of time.
+You have to continue to make another one so that you can keep making money.
+@1. Okay, let's make another one.
+1
+#7 THE END:
+You lost 2,000 dollars!
+You started to hate your career and decided to quit the job.
+#8 YOU WIN!
+You and D created a great game.
+Your company became the leader in the game industry!
+#9 The game doesn't end up well. You lose 5,000 dollars.
+@1. Don't give up
+11
+@2. Give up
+12
+#10 You made a game based on the old idea.
+@1. Take the project seriously, but you will feel exhausted every single day
+13
+@2. Don't take it seriously
+14
+#11 You learned from your failures and immediately made another innovative game!
+@1. Work really hard and enjoy your work
+15
+@2. Work for money only
+16
+#12 THE END:
+You lose 5,000 dollars!
+You regret the decision of quitting your job.
+#13 THE END:
+You lose 2,000 dollars!
+Do you regret your decision?
+#14 THE END:
+You lose 5,000 dollars!
+Do you regret your decision?
+#15 YOU WIN!
+You and D created a great game.
+Your company became the leader in the game industry!
+#16 You make 2,000 dollars! Do you regret your choices?
+@1. I got a new idea! Let's do it!
+17
+@2. Let's keep up the good work and make a great game
+18
+#17 TURE AWAITS!
+#18 THE END
